@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "MBA Case",
-    description: "welcome to Johnny's Blog!",
+    description: "welcome to MBA Case!",
   },
 
   // CONFIG configration (required)
